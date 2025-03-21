@@ -1,0 +1,8 @@
+{
+  "name": "T\u00e9cnicos Via-Digital",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "09e27199"
+}
